@@ -5,6 +5,10 @@ import Cors from 'cors';
 
 import Layout from '../components/layout'
 
+const cors = Cors({
+  methods: ['GET', 'HEAD'],
+})
+
 
 function Home(data) {
   const [ userInput, setUserInput ] = useState('');

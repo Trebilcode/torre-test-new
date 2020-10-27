@@ -11,4 +11,4 @@ To run it:
 3)After installing the dependencies, run `npm run dev`
 
 
-Bugs: you need to install a cors extension so the app is able to make a get Request to the Torre api. Bug will be fixed soon.
+Bugs: you need to install a cors extension in your browser so the app is able to make a get Request to the Torre api. Bug will be fixed soon.
