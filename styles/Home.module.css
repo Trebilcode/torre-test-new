@@ -1,0 +1,44 @@
+
+.userInput {
+  margin-top: 1.5rem;
+  border-radius: 20px;
+  padding: 20px;
+  font-size: 1.5rem;
+}
+
+.actionButton {
+  margin-top: 1.5rem;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.picture {
+  margin-top: 3rem;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.infoContainer {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: 1fr 1fr;
+  height: 50vh;
+  padding: 0 2rem;
+  padding-bottom: 1.5rem;
+  
+}
+
+.infoContainerItem {
+  border: 1px solid white;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  color: rgb(240, 221, 233);
+  border-radius: 5px;
+
+}

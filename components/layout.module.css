@@ -1,0 +1,9 @@
+.container {
+  padding-top: 2rem;
+  text-align: center;
+  background:rgba(136,227,175,1);
+  height: 100vh;
+  font-family: 'Courier New', Courier, monospace;
+  color: rgb(65, 56, 56);
+  font-weight: bold;
+}
